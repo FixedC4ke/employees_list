@@ -1,19 +1,19 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  user: one
   name: MyString
-  data_begin: 2020-02-14
-  data_end: 2020-02-14
+  data_begin: 2020-03-01
+  data_end: 2020-03-01
+  user_id: one
   main: false
-  department: one
-  company: one
+  department: MyString
+  company: MyString
 
 two:
-  user: two
   name: MyString
-  data_begin: 2020-02-14
-  data_end: 2020-02-14
+  data_begin: 2020-03-01
+  data_end: 2020-03-01
+  user_id: two
   main: false
-  department: two
-  company: two
+  department: MyString
+  company: MyString
