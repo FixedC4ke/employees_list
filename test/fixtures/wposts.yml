@@ -2,6 +2,7 @@
 
 one:
   name: MyString
+<<<<<<< HEAD
   company: one
   department: one
   date_start: 2020-03-02
@@ -15,3 +16,20 @@ two:
   date_start: 2020-03-02
   date_end: 2020-03-02
   main: false
+=======
+  data_begin: 2020-03-01
+  data_end: 2020-03-01
+  user_id: one
+  main: false
+  department: MyString
+  company: MyString
+
+two:
+  name: MyString
+  data_begin: 2020-03-01
+  data_end: 2020-03-01
+  user_id: two
+  main: false
+  department: MyString
+  company: MyString
+>>>>>>> b348cdbb2e53256f57ed7bdaccfdec7147309c95

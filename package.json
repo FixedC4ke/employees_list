@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "LostLynx",
+=======
+  "name": "employees_list",
+>>>>>>> b348cdbb2e53256f57ed7bdaccfdec7147309c95
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",

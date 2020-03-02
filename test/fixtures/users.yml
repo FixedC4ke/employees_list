@@ -1,6 +1,7 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
+<<<<<<< HEAD
   name: MyString
   passport_s: MyString
   passport_n: MyString
@@ -17,3 +18,11 @@ two:
   otchestvo: MyString
   propiska: MyString
   birthday: 2020-03-02
+=======
+  fullname: MyString
+  birthday: 2020-03-01
+
+two:
+  fullname: MyString
+  birthday: 2020-03-01
+>>>>>>> b348cdbb2e53256f57ed7bdaccfdec7147309c95
