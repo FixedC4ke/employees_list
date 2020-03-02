@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  company: one
+  department: one
+  date_start: 2020-03-02
+  date_end: 2020-03-02
+  main: false
+
+two:
+  name: MyString
+  company: two
+  department: two
+  date_start: 2020-03-02
+  date_end: 2020-03-02
+  main: false
